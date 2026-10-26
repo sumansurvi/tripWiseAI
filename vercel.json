@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "npm run install:ui && pip3 install -r requirements-vercel.txt",
+  "builds": [
+    {
+      "src": "phases/frontend/phase-11-chat-ui/package.json",
+      "use": "@vercel/next"
+    },
+    {
+      "src": "api/chat.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "api/health.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    { "src": "/api/chat", "dest": "api/chat.py" },
+    { "src": "/api/health", "dest": "api/health.py" },
+    { "src": "/chat", "dest": "api/chat.py" },
+    { "src": "/health", "dest": "api/health.py" },
+    { "src": "/(.*)", "dest": "phases/frontend/phase-11-chat-ui/$1" }
+  ]
+}

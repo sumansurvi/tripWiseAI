@@ -1,0 +1,12 @@
+.venv
+data
+phases/backend/go-ingest/bin
+**/__pycache__
+**/*.pyc
+.git
+.cursor
+agent-transcripts
+**/node_modules
+**/.next
+phases/backend/**/tests
+phases/backend/**/fixtures

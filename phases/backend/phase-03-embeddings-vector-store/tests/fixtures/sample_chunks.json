@@ -1,0 +1,42 @@
+{
+  "source_url": "https://en.wikivoyage.org/wiki/Delhi/Old_Delhi",
+  "title": "Delhi/Old Delhi",
+  "wiki_page_id": 1,
+  "revision_id": 100,
+  "license": "CC BY-SA 4.0",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_id": "Delhi__Old_Delhi__section__0000",
+      "chunk_type": "section",
+      "text": "Old Delhi is known for street food, bazaars, and Mughal-era monuments around Chandni Chowk.",
+      "heading_path": "Lead > Eat",
+      "section_title": "Eat",
+      "subsection_title": null,
+      "source_url": "https://en.wikivoyage.org/wiki/Delhi/Old_Delhi",
+      "title": "Delhi/Old Delhi",
+      "wiki_page_id": 1,
+      "revision_id": 100
+    },
+    {
+      "chunk_id": "Delhi__Old_Delhi__section__0001",
+      "chunk_type": "section",
+      "text": "*\n*",
+      "heading_path": "Lead > See",
+      "section_title": "See",
+      "source_url": "https://en.wikivoyage.org/wiki/Delhi/Old_Delhi",
+      "title": "Delhi/Old Delhi"
+    },
+    {
+      "chunk_id": "Delhi__Old_Delhi__listing__0000",
+      "chunk_type": "listing",
+      "text": "Karim's — Famous Mughlai restaurant near Jama Masjid, known for kebabs and stews.",
+      "heading_path": "Eat",
+      "section_title": "Eat",
+      "source_url": "https://en.wikivoyage.org/wiki/Delhi/Old_Delhi",
+      "title": "Delhi/Old Delhi",
+      "wiki_page_id": 1,
+      "revision_id": 100
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/">
+  <page>
+    <title>India</title>
+    <ns>0</ns>
+    <id>100</id>
+    <revision>
+      <id>1001</id>
+      <text>{{usablecountry}}
+{{isPartOf|South Asia}}
+{{geo|22.8|83.0}}
+
+== Regions ==
+* [[Northern India]]
+* [[Western India]]
+
+India is a country in South Asia.
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Northern India</title>
+    <ns>0</ns>
+    <id>101</id>
+    <revision>
+      <id>1002</id>
+      <text>{{usableregion}}
+{{isPartOf|India}}
+
+== Cities ==
+* [[Delhi]]
+
+Northern India overview.
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Delhi</title>
+    <ns>0</ns>
+    <id>102</id>
+    <revision>
+      <id>1003</id>
+      <text>{{guidecity}}
+{{printDistricts}}
+{{isPartOf|Northern India}}
+{{geo|28.6|77.2}}
+
+== Districts ==
+* [[Delhi/Old Delhi]]
+
+Delhi is a huge city.
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Delhi/Old Delhi</title>
+    <ns>0</ns>
+    <id>103</id>
+    <revision>
+      <id>1004</id>
+      <text>{{usabledistrict}}
+{{isPartOf|Delhi}}
+
+== See ==
+{{see
+| name=Red Fort
+| content=Historic fort in Old Delhi.
+}}
+
+Old Delhi district.
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Japan</title>
+    <ns>0</ns>
+    <id>200</id>
+    <revision>
+      <id>2001</id>
+      <text>{{usablecountry}}
+{{isPartOf|East Asia}}
+
+Japan is out of India scope.
+</text>
+    </revision>
+  </page>
+  <page>
+    <title>Sample itinerary</title>
+    <ns>0</ns>
+    <id>300</id>
+    <revision>
+      <id>3001</id>
+      <text>{{outlineitinerary}}
+{{isPartOf|India}}
+
+A sample itinerary under India that Phase 2 should skip.
+</text>
+    </revision>
+  </page>
+</mediawiki>

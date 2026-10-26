@@ -1,0 +1,37 @@
+{{guidecity}}
+{{printDistricts}}
+{{isPartOf|Tokyo (prefecture)}}
+{{geo|35.689506|139.6917|zoom=10}}
+
+'''Tokyo''' is Japan's capital.
+
+== Districts ==
+{{regionlist
+| region1name=[[Tokyo/Shibuya|Shibuya]]
+| region1color=#ff0000
+| region1items=Nightlife and shopping.
+| region2name=[[Tokyo/Shinjuku|Shinjuku]]
+| region2color=#00ff00
+| region2items=Skyscrapers and nightlife.
+}}
+
+== Understand ==
+Tokyo is a huge city. District pages hold most listings.
+
+=== Climate ===
+The rainy season is in June and July.
+
+== Get in ==
+Most visitors arrive via Narita or Haneda.
+
+== Get around ==
+The Yamanote Line loops around central Tokyo.
+
+== See ==
+Individual attractions are listed on the district pages.
+
+== Eat ==
+For restaurant listings, see the district articles.
+
+== Go next ==
+* [[Kyoto]]

@@ -1,0 +1,72 @@
+{{usabledistrict}}
+{{isPartOf|Tokyo}}
+{{geo|35.664036|139.698211}}
+
+'''Shibuya''' is a major commercial and nightlife district in western [[Tokyo]].
+
+== Understand ==
+This district is particularly lively in the evening and is known for its inexpensive restaurants.
+
+=== Climate ===
+Summers are hot and humid.
+
+== Get in ==
+The district is centered on [[Shibuya Station]].
+
+== Get around ==
+Most attractions are walkable from the station.
+
+== See ==
+{{see
+| name=Shibuya Crossing
+| alt=Shibuya Scramble
+| url=https://www.example.org/crossing
+| address=1 Shibuya
+| lat=35.6595
+| long=139.7004
+| directions=In front of the Hachiko exit
+| hours=24 hours
+| price=Free
+| lastedit=2024-01-01
+| wikidata=Q1142374
+| content=The famous scramble crossing is one of the busiest pedestrian intersections in the world.
+}}
+
+== Do ==
+{{do
+| name=People watching at Hachiko
+| content=A popular meeting spot beside the statue.
+}}
+
+== Buy ==
+{{buy
+| name=Shibuya 109
+| content=Youth fashion department store.
+}}
+
+== Eat ==
+{{eat
+| name=Ramen Alley
+| price=¥800-1200
+| content=A cluster of small ramen shops near the station.
+}}
+
+== Drink ==
+{{drink
+| name=Nonbei Yokocho
+| content=A tiny alley of standing bars.
+}}
+
+== Sleep ==
+This district is convenient if you want nightlife access, but it can be noisy at night.
+
+{{sleep
+| name=Capsule Hotel Example
+| price=¥4000
+| checkin=16:00
+| checkout=10:00
+| content=A typical capsule hotel near the station.
+}}
+
+== Go next ==
+* [[Tokyo/Shinjuku|Shinjuku]] is three stops north on the Yamanote Line.

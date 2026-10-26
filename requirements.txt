@@ -1,0 +1,19 @@
+# Phase 1–3 dependencies. Acquisition uses httpx (Wikivoyage Action API).
+# Playwright / browser automation is intentionally not included.
+httpx>=0.27
+mwparserfromhell>=0.6.6
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+tenacity>=8.2
+pytest>=8.0
+# Phase 3 — embeddings → pgvector (local bge default; Gemini optional)
+google-genai>=1.0
+pgvector>=0.3
+fastembed>=0.4.2
+# Phase 4 — scheduler
+apscheduler>=3.10
+# Phase 5 — Groq chat LLM + FastAPI
+groq>=0.11
+fastapi>=0.110
+uvicorn>=0.27

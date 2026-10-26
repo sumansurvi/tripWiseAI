@@ -1,0 +1,24 @@
+.env
+config/.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+.DS_Store
+*.log
+data/raw/
+data/structured/
+data/chunks/
+data/dumps/
+!data/.gitkeep
+
+# Frontend build output / deps
+node_modules/
+.next/
+*.tsbuildinfo

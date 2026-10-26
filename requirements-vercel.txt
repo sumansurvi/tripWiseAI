@@ -1,0 +1,11 @@
+# Slim deps for Vercel Python serverless (no fastembed / onnxruntime).
+# Local laptop keeps using requirements.txt (includes local bge).
+httpx>=0.27
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+google-genai>=1.0
+pgvector>=0.3
+groq>=0.11
+fastapi>=0.110
+uvicorn>=0.27

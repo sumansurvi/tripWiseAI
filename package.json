@@ -1,0 +1,13 @@
+{
+  "name": "tripwise-ai",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix phases/frontend/phase-11-chat-ui",
+    "build": "npm run build --prefix phases/frontend/phase-11-chat-ui",
+    "install:ui": "npm install --prefix phases/frontend/phase-11-chat-ui"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2"
+  }
+}
